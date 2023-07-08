@@ -11,7 +11,7 @@ public class Main {
                 Omnax.Star="4";
                 FeatureSun Ad = new FeatureSun();
                 Ad.name="ibrahim";
-                Ad.temp=12344 celcius;
+                Ad.temp="12344 celcius";
                 Ad.size="1234km";
 
         }
