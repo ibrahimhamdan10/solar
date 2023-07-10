@@ -9,11 +9,17 @@ public class Main {
                 Omnax.Sun="1";
                 Omnax.Planets="2";
                 Omnax.Star="4";
+
                 FeatureSun Ad = new FeatureSun();
                 Ad.name="ibrahim";
                 Ad.temp="12344 celcius";
                 Ad.size="1234km";
 
+                planet1 xeon= new planet1();
+                xeon.name="reon";
+                xeon.color="pink";
+                xeon.temp="-45celcius";
+                xeon.size="1cm";
+
         }
-    
 }
