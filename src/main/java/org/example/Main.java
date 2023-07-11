@@ -27,6 +27,10 @@ public class Main {
                 Feon.temp="25 celcius";
                 Feon.size="1234billion km";
 
+                ibrahim1 ibrahim1 = new ibrahim1();
+                ibrahim1.color="white";
+                ibrahim1.name="ibrahim";
+                ibrahim1.tall="180";
 
         }
 }
