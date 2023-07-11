@@ -26,13 +26,16 @@ public class Main {
                 Feon.color="white";
                 Feon.temp="25 celcius";
                 Feon.size="1234billion km";
-
+                
                 ibrahim2 ibrahim2 = new ibrahim2();
                 ibrahim2.color="white";
                 ibrahim2.name="ibrahim2";
                 ibrahim2.tall="180";
 
-
+                ibrahim1 ibrahim1 = new ibrahim1();
+                ibrahim1.color="white";
+                ibrahim1.name="ibrahim";
+                ibrahim1.tall="180";
 
         }
 }
